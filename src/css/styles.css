@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+p, a {
+  margin-top: 10px;
+}
+
+.date {
+  font-style: italic;
+}
+
+.section {
+  margin-top: 20px;
+}
+
+.sub-section {
+  margin-top: 10px;
+}
